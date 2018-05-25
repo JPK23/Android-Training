@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/joe/Documents/GitKraken/Tutorials/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/joe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/e91998cc64e97598e92fb45991c2d9ce/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/joe/Documents/GitKraken/Tutorials/architectureComponentsSunshineStartingCode/app/src/main/res/values-v16/styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "694",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1036"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "463"
+                    }
+                }
+            ]
+        }
+    ]
+}
