@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/joe/Documents/GitKraken/Tutorials/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/joe/Documents/GitKraken/Tutorials/architectureComponentsSunshineStartingCode/app/src/main/res/values-port/bools.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "692",
+                        "endColumns": "45",
+                        "endOffsets": "733"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "111",
+                        "endColumns": "45",
+                        "endOffsets": "152"
+                    }
+                },
+                {
+                    "source": "/home/joe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/e91998cc64e97598e92fb45991c2d9ce/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
