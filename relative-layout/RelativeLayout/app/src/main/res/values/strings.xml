@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Relative Layout</string>
+    <string name="camera">Camera</string>
+    <string name="settings">Settings</string>
+    <string name="singapore_pic">Singapore</string>
+    <string name="star">Star</string>
+    <string name="singapore_text">Signapore</string>
+    <string name="camera_desc">Leica M Typ 240</string>
+    <string name="settings_desc">f/4 16s ISO 200</string>
+    <string name="singapore_desc">Singapore</string>
+    <string name="discard">DISCARD</string>
+    <string name="upload">UPLOAD</string>
+</resources>
