@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+<<<<<<< HEAD
     xmlns:tools="http://schemas.android.com/tools"
+=======
+>>>>>>> master
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_editor_absoluteX="0dp"
     app:layout_editor_absoluteY="81dp">
 
     <ImageView
+<<<<<<< HEAD
         android:id="@+id/imageView"
         android:layout_width="184dp"
         android:layout_height="203dp"
@@ -29,4 +33,14 @@
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
+=======
+        android:src="@drawable/singapore"
+        android:layout_width="184dp"
+        android:layout_height="203dp"
+        app:layout_editor_absoluteX="100dp"
+        app:layout_editor_absoluteY="68dp"
+        android:id="@+id/imageView"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/placeholder" />
+>>>>>>> master
 </android.support.constraint.ConstraintLayout>
