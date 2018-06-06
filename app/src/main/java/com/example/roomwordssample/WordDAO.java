@@ -18,4 +18,8 @@ void deleteAll();
 
 @Query("SELECT * from word_table ORDER BY word ASC")
 LiveData<List<Word>> getAllWords();
+
+@Query("SELECT * from word_table LIMIT 1")
+Word[] getAnyWord();
+
 }
